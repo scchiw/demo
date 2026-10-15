@@ -63,4 +63,6 @@
   <testcase name="shouldAnswerWithFasle" classname="com.example.AppTest" time="0.001"/>
 </testsuite>
 
-<!-- comment
+#comment
+
+<!-- Second comment
